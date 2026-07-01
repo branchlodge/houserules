@@ -3,7 +3,7 @@
 window.RULES = {
   wifi: { network: "The Branch", password: "adklodge" },
 
-  intro: "Welcome to The Branch! All guests, please read these house rules to keep everyone safe and the property in great shape.",
+  intro: "All guests, please read these house rules to keep everyone safe and the property in great shape.",
 
   sections: [
     {
