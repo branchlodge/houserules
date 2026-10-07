@@ -10,12 +10,14 @@ window.RULES = {
       id: "notes", num: "01", title: "Important Notes",
       rules: [
         "Follow all signage throughout the lodge/property.",
-        { text: "Toilet paper is the only manufactured product that can go into the toilets. NO wipes, diapers, tampons, etc, which will cause the septic system to fail. The septic system is a large and expensive underground system.", highlight: true },
-        { text: "The primary thermostat (for heat and AC) is in a holder that is opposite the door to the back deck. To change settings, remove it from its holder and point at the unit (above door). Return the thermostat to its holder after use. Keep all windows & exterior doors closed while in use. Keep the ceiling fan on at all times.", note: "All other thermostats are for heat only." },
+        { text: "Toilet paper is the only manufactured product that can go into the toilets. NO wipes (even \u201Cflushable\u201D ones), diapers, tampons, etc, which will cause the septic system to fail. The septic system is a large and expensive underground system.", highlight: true },
+        { text: "The primary thermostat (for heat and AC) is in a holder that is opposite the door to the back deck. To change settings, remove it from its holder and point at the unit (above door). Return the thermostat to its holder after use. Keep all windows & exterior doors closed while in use. Keep the ceiling fan on at all times.", note: "All other thermostats are for heat only. For energy conservation, thermostat ranges are managed automatically. Heating is capped at a maximum of 74°F, and cooling is set to a minimum of 68°F." },
         "No smoking or vaping inside.",
-        "Do not use the countertops as a cutting board. Use provided cutting boards.",
+        "No pets.",
+        "Do not use the countertops and kitchen cart as a cutting board. Use provided cutting boards.",
         "All trash & recycling go in the shed. The key to the shed is on the hook by the front door. Always keep closed & locked (prevent unwanted animals) and return the key to the hook.",
-        "Giant Jenga is in the shed below the workbench. It takes two people to move it. Play on the lawn and otherwise away from the lodge as falling pieces will damage the lodge. Put it back after use (to avoid weather and because our cleaner cannot move it alone)."
+        "Giant Jenga is in the shed below the workbench. It takes two people to move it. Play on the lawn and otherwise away from the lodge as falling pieces will damage the lodge. Put it back after use (to avoid weather and because our cleaner cannot move it alone).",
+        "As needed, please use provided shovels and ice melt to clear the front steps."
       ]
     },
     {
@@ -23,8 +25,7 @@ window.RULES = {
       rules: [
         "No open flames except in the designated fireplaces. Never leave a fire unattended. Always fully extinguish after use.",
         { text: "The inside fireplace's controls are on its back. To turn it on, set the \u201CBurner\u201D control to \u201CON\u201D. To turn it off, set control to \u201CTSTAT\u201D. Do not open the panel at the base of the fireplace. Keep windows closed while in use. <span class='mark-hl'>Do not use it overnight.</span>", note: "When not in use, there is a small pilot light that remains on; this is normal." },
-        "Do not move the propane fire pit on the deck. Turn off the valve to the propane tank after use and put the cover back on.",
-        "After using the grill, turn off the valve to the propane tank. Let the grill cool down before putting the cover back on."
+        "After using the grill and/or propane fire pit, turn off the valve to the propane tank."
       ]
     },
     {
@@ -49,7 +50,7 @@ window.RULES = {
         "Run the dishwasher to clean all dirty dishes.",
         "Take all of your food with you (don\u2019t forget items in the freezer).",
         "Put all trash and recycling into the shed.",
-        "Turn off AC.",
+        "Turn off AC. In cold months, set all thermostats to 62.",
         "Turn off all lights.",
         "Lock all windows and doors (don\u2019t forget the shed door)."
       ]
