@@ -46,11 +46,11 @@ window.RULES = {
       checklist: true,
       rules: [
         "Checkout is no later than 11:00 am. Our cleaner typically comes right at 11:00 am.",
-        "Put all used sheets, towels and robes into the laundry baskets (in bedroom closets and upstairs bathroom).",
-        "Run the dishwasher to clean all dirty dishes.",
+        "Put used towels into the laundry room baskets (in bedroom closets and upstairs bathroom).",
+        { text: "Run the dishwasher.", note: "Doing this saves time and allows us to offer a later checkout and earlier check-in." },
         "Take all of your food with you (don\u2019t forget items in the freezer).",
         "Put all trash and recycling into the shed.",
-        "Turn off AC. In cold months, set all thermostats to 62.",
+        "May–September, turn off AC; October–April, set thermostats to 62.",
         "Turn off all lights.",
         "Lock all windows and doors (don\u2019t forget the shed door)."
       ]
